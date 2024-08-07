@@ -1,54 +1,61 @@
 # BuildersGuild - Terms of Service
 
-Welcome to **BuildersGuild**, a community dedicated to creators and builders. By participating in this Discord server, you agree to the following terms and conditions. Please read them carefully.
+Welcome to **BuildersGuild**, a platform for creators, builders, and players. By accessing or using our platform, you agree to these Terms of Service. Please read them carefully.
 
 ## 1. **Acceptance of Terms**
 
-By joining **BuildersGuild**, you agree to abide by these Terms of Service. If you do not agree with any part of these terms, please refrain from using the server.
+By using **BuildersGuild**, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use the platform.
 
-## 2. **Code of Conduct**
+## 2. **Account Creation and Security**
 
-To maintain a positive and constructive environment, all members are expected to:
+- **Account Registration**: You must create an account to access certain features of the platform. Provide accurate and complete information during registration.
+- **Account Security**: You are responsible for maintaining the confidentiality of your account credentials. Notify us immediately if you suspect any unauthorized access to your account.
 
-- **Be Respectful**: Treat all members with respect and courtesy. Personal attacks, harassment, and discriminatory comments will not be tolerated.
-- **Keep Content Appropriate**: Share content that is suitable for all audiences. No explicit, offensive, or inappropriate material is allowed.
-- **Respect Privacy**: Do not share personal information or private conversations without consent.
+## 3. **User Conduct**
 
-## 3. **Content Sharing**
+- **Respect and Courtesy**: Treat other users with respect. Harassment, abusive language, and discriminatory behavior are strictly prohibited.
+- **Appropriate Content**: Ensure all content you create or share is suitable for all audiences. Explicit, offensive, or harmful content is not allowed.
+- **No Spam**: Do not engage in spamming or flooding the platform with repetitive or unsolicited content.
 
-- **Intellectual Property**: You retain ownership of your creations. By sharing your work in the server, you grant us a non-exclusive, royalty-free license to use, display, and promote your content within the server.
-- **No Plagiarism**: Ensure that all content you share is original or properly credited. Plagiarism or unauthorized use of others' work is prohibited.
+## 4. **Content Ownership and Licensing**
 
-## 4. **Server Usage**
+- **User Content**: You retain ownership of any content you create or upload. By sharing content on **BuildersGuild**, you grant us a non-exclusive, royalty-free, worldwide license to use, display, and distribute your content within the platform.
+- **Content Restrictions**: You must have the rights to all content you upload. Do not upload content that infringes on the intellectual property rights of others.
 
-- **Account Security**: Protect your account and do not share your login credentials with others. We are not responsible for any loss or damage resulting from unauthorized access to your account.
-- **No Spam**: Avoid spamming or flooding channels with repetitive messages or unsolicited advertisements. This includes excessive tagging and promotional content.
-- **Channel Etiquette**: Use channels for their intended purposes. Follow any specific rules or guidelines posted in each channel.
+## 5. **Platform Usage**
 
-## 5. **Moderation and Enforcement**
+- **Acceptable Use**: Use the platform only for lawful purposes and in accordance with these terms. Do not engage in activities that could harm or disrupt the platform or its users.
+- **Prohibited Activities**: Unauthorized access, exploitation of vulnerabilities, and the use of automated tools to manipulate the platform are prohibited.
 
-- **Moderation**: Our moderators are here to help ensure a positive environment. They have the authority to issue warnings, mute, kick, or ban members who violate the rules.
-- **Reporting Issues**: If you encounter any problems or observe rule violations, report them to the moderators using the appropriate channels. Do not take matters into your own hands.
+## 6. **Moderation and Enforcement**
 
-## 6. **Changes to Terms**
+- **Moderation**: We reserve the right to monitor and moderate the platform to ensure compliance with these terms. Moderators may issue warnings, suspend, or ban users who violate the rules.
+- **Reporting Violations**: Report any violations of these terms or suspicious activities through the appropriate channels provided on the platform.
 
-We may update these Terms of Service from time to time. Any changes will be posted in this document, and your continued use of the server constitutes acceptance of the updated terms.
+## 7. **Monetization and Transactions**
 
-## 7. **Liability and Disclaimers**
+- **Virtual Currency**: The platform may feature virtual currency or items for purchase. Transactions are subject to additional terms and conditions, which will be provided at the time of purchase.
+- **Refund Policy**: All purchases are final unless otherwise stated. Refunds may be provided at our discretion, based on our refund policy.
 
-- **No Warranty**: **BuildersGuild** is provided "as is" and without any warranties. We do not guarantee the accuracy, reliability, or availability of the server or its content.
-- **Limitation of Liability**: We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the server.
+## 8. **Changes to Terms**
 
-## 8. **Governing Law**
+We may update these Terms of Service from time to time. Changes will be posted on this page, and your continued use of the platform constitutes acceptance of the updated terms.
+
+## 9. **Liability and Disclaimers**
+
+- **Platform Availability**: **BuildersGuild** is provided "as is" and without warranties of any kind. We do not guarantee the availability, reliability, or accuracy of the platform.
+- **Limitation of Liability**: We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the platform.
+
+## 10. **Governing Law**
 
 These Terms of Service are governed by and construed in accordance with the laws of [Your Location]. Any disputes arising under these terms will be resolved in the courts of [Your Location].
 
-## 9. **Contact Information**
+## 11. **Contact Information**
 
-If you have any questions or concerns about these Terms of Service, please contact us through the server’s feedback channel or email us at [Your Contact Email].
+For questions or concerns about these Terms of Service, please contact us through the platform’s support channels or email us at [Your Contact Email].
 
-Thank you for being a part of **BuildersGuild**. We look forward to building and creating together!
+Thank you for being a part of **BuildersGuild**. We hope you enjoy your experience on our platform!
 
 ---
 
-**BuildersGuild** is not affiliated with or endorsed by any third-party organizations. All rights to external trademarks and intellectual property are acknowledged.
+**BuildersGuild** is an independent platform and is not affiliated with or endorsed by any third-party organizations. All rights to external trademarks and intellectual property are acknowledged.
